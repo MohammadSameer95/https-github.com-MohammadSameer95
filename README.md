@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sameer | Java Backend Developer<br><br>Software Engineer with 1+ year of experience in Java Backend Development. <br>Skilled in Core Java, Advanced Java, Python, C++, Spring, and Spring Boot.<br> Knowledge of SQL, MySQL, AWS, Docker, Maven, and CI/CD pipelines. <br>Passionate about developing efficient, reliable, and scalable backend applications.
+Mohammad Sameer | Java Backend Developer<br><br>Software Engineer with 1+ year of experience in Java Backend Development. <br>Skilled in Core Java, Advanced Java, Python, C++, Spring, and Spring Boot.<br> Knowledge of SQL, MySQL, AWS, Docker, Maven, and CI/CD pipelines. <br>Passionate about developing efficient, reliable, and scalable backend applications.
 
 
 ## 🌐 Socials:
